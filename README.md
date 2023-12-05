@@ -1,5 +1,5 @@
 # liquibase-issue-custom-task-change
-Minimally reproducible example of an custom task change getting executed twice.
+Minimally reproducible example of a custom task change getting executed twice.
 
 ## Steps
 1. Execute `mvn liquibase:update`

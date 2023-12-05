@@ -5,6 +5,6 @@
 		xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
 	<changeSet id="1" author="test">
-		<customChange class="de.webalf.CustomChangelog"/>
+		<customChange class="de.webalf.CustomChange"/>
 	</changeSet>
 </databaseChangeLog>
